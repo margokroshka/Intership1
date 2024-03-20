@@ -8,7 +8,7 @@ public class PathBuilder {
     }
 
     public static void processInput(String input) throws Exception{
-        //try {
+        try {
             String[] parts = input.split("/");
             Folder currentFolder = root;
             for (int i = 0; i < parts.length - 1; i++) {
@@ -22,9 +22,9 @@ public class PathBuilder {
             File file = new File(fileParts[0], fileParts[1]);
             currentFolder.addItem(file);
             System.out.println(root);
-        /*} catch(Exception e){
+        } catch(Exception e){
             System.out.println("Некорректный ввод");
-        }*/
+        }
 
     }
 }
