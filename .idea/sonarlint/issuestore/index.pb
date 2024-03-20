@@ -23,3 +23,7 @@ G.idea/sonarlint/issuestore/f/6/f66025cd5b6ed1532a29745eb789408d83b5b84d,6/9/69
 Q.idea/sonarlint/securityhotspotstore/e/d/ed39ec97d1dce5bf9679b287c6df910124fd6cce,f/4/f47862cbd3c02324e0f0abae9c9d1abec5b0045a
 Å
 Q.idea/sonarlint/securityhotspotstore/f/6/f66025cd5b6ed1532a29745eb789408d83b5b84d,3/2/3238a5725bd543c60f2a6028003a3123a836e73f
+Q
+!src/test/java/FileSystemTest.java,9/f/9f93a1b6cccdbffaf1f7ffb76f8400c8182349e9
+[
++src/main/java/baranovskaya/PathBuilder.java,9/b/9bf5a44b2f77ec804cb218c5027bb72fc4c0e88d
